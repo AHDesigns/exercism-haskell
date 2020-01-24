@@ -23,6 +23,6 @@ cabal.project.local~
 .ghc.environment.*
 
 *.yaml*
-*.cabl
+*.cabal
 .exercism/
 .stack-work/
